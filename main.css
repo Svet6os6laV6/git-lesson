@@ -1,0 +1,11 @@
+body{
+    margin:0;
+}
+.header{
+    padding: 50px 100px;
+    text-transform: uppercase;
+    color:#fff;
+    background: #999;
+    text-align: center;
+    font-family: sans-serif;
+}
